@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\test\\test\\test.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\calculadora_nominal\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\test\\test\\test.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\calculadora_nominal\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\test\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\calculadora_nominal\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\test\\test\\test.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\calculadora_nominal\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\test\\test\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\calculadora_nominal\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
