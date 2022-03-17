@@ -17,12 +17,12 @@ namespace test
 
                 if (sueldo == 0)
                 {
-                    sueldo += sueldo * aumento;
-                    textBox_sueldoNuevo.Text = sueldo.ToString();
+                    textBox_sueldoBase.Text = "ingresa un sueldo valido";
                 }
                 else
                 {
-                    textBox_sueldoBase.Text = "ingresa un sueldo valido";
+                    sueldo += sueldo * aumento;
+                    textBox_sueldoNuevo.Text = sueldo.ToString();
                 }
             }
             catch
