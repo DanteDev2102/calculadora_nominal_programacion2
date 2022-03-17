@@ -103,6 +103,7 @@ namespace test
             return tecla switch
             {
                 08 or
+                13 or
                 46 or
                 48 or
                 49 or
